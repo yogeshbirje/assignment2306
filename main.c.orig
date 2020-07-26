@@ -10,15 +10,15 @@ Initial Security()
  //Sample Code
 }
 
-
+<<<<<<< HEAD
 feature 1(){
 //f1 added
 } 
-
+=======
 Security patch ()
 {
 //Security patch added
 }
-
+>>>>>>> master
 
 }
